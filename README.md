@@ -3,12 +3,12 @@ This is a PHP website that allows the user to perform C.R.U.D (Create,Read,Updat
  
  You cannot acces the main page if you havent logged first. You can log in with username : _admin_ and password : _admin_.
  
- Once logged you will be on _index.php_ wich is where you see all your users fetched from the database.
+ Once logged you will be on _index.php_  where you can see all your users fetched from the database.
  
  I worked on _index.php_ and _dbh.inc.php_ .
  
  
- _dbh.inc.php_ purpose is to make,close the connection to the database and to fetch the users from it.
+ _dbh.inc.php_ purpose is to make, close the connection to the database and to fetch the users from it.
  
  # How to install
  1. Download the repository on your computer and  Download [WAMP](https://sourceforge.net/projects/wampserver/)
