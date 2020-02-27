@@ -1,5 +1,5 @@
 # C.R.U.D.-web-app
-This is a PHP website that allows the user to perform C.R.U.D (Create,Read,Update,Delete) operations on a list of users fetched from a MySql database.Bootstrap was also used for the css. We had 1 week to make the project.
+This is a PHP website that allows the user to perform C.R.U.D (Create,Read,Update,Delete) operations on a list of users fetched from a MySql database. Bootstrap was also used for the css. We had 1 week to make the project.
  
  You cannot acces the main page if you havent logged first. You can log in with username : _admin_ and password : _admin_.
  
